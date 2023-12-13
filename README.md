@@ -1,5 +1,10 @@
-# Consumer_Profitability
+# CONSUMER ADVANCEMENTS BY PRICE ANALYSIS AND WEB SCRAPING IN E-COMMERCE
+
 In this project, comparison of the price of a product from multiple eCommerce  sites using Python will take place . • The main objective is to monitor the price of the specific item (or items) from  multiple eCommerce platforms. • On each execution, all three websites are crawled and the product is located,  and the price is obtained.
+
+1. It is often seen in advertisements that there are websites which compares certain things like flight tickets (Make my Trip), policies (Policy Bazaar) and hotel rooms(Trivago) etc. 
+2. However, one of the most ordered products fall in the electronics category.
+3. So , the proposed project will be an application project which will compare the prices of a variety of electronics from a variety of brands
 
 ***USER INTERFACE DESIGN***
 
